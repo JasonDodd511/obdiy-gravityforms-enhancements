@@ -1,10 +1,10 @@
 <?php
 
 /*
-Plugin Name: Obdiy GravityForms Enhancements
+Plugin Name: OBDIY GravityForms Enhancements
 Plugin URI: https://github.com/JasonDodd511/obdiy-gravityforms-enhancements
 Description: Plugin to house GravityForms snippets.
-Version: 1.0
+Version: 1.1
 Author: Jason Dodd
 Author URI: https://cambent.com
 License: GPL2
