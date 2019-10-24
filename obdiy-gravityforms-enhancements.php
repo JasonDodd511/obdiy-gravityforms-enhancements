@@ -736,7 +736,7 @@ function gfaa_display_assessment_results()
 
 }
 
-add_shortcode( 'assessment_results' , gfaa_display_assessment_results );
+add_shortcode( 'assessment_results' , 'gfaa_display_assessment_results' );
 
 
 /**
